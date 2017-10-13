@@ -1,9 +1,6 @@
-*
 sources/*
 install/*
 environment.sh
 !.gitattributes
 !.gitignore
 !.gitkeep
-!*.md
-!*/
