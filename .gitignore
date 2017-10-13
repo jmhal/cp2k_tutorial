@@ -1,4 +1,6 @@
 *
+sources/
+install/
 !.gitattributes
 !.gitignore
 !.gitkeep
