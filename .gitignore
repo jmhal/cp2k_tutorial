@@ -1,6 +1,6 @@
 *
-sources/
-install/
+sources/*
+install/*
 environment.sh
 !.gitattributes
 !.gitignore
